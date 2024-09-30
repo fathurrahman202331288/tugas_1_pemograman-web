@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "REVTABEVEND LIBURAN",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Untuk mempererat dan menjaga talisiraturahmi angkatan 13 DARUL QURAN,berbagi cerita pengalaman setelah pergi dari persanteren,dan bercanda gurau .",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Foto foto sebelum kelulusan",
+      "largeImage": "img/4.jpeg",
+      "smallImage": "img/4.jpeg"
+    },
+    {
+      "title": "Sujud syukur sebelum kelulusan",
+      "largeImage": "img/1.jpeg",
+      "smallImage": "img/1.jpeg"
+    },
+    {
+      "title": "Pengurus angkatan",
+      "largeImage": "img/5.jpeg",
+      "smallImage": "img/5.jpeg"
+    },
+    {
+      "title": " Bromo",
+      "largeImage": "img/6.jpeg",
+      "smallImage": "img/6.jpeg"
+    },
+    {
+      "title": " Jeep bromo",
+      "largeImage": "img/12.jpeg",
+      "smallImage": "img/12.jpeg"
+    },
+    {
+      "title": " Bis ",
+      "largeImage": "img/11.jpeg",
+      "smallImage": "img/11.jpeg"
+    },
+    {
+      "title": " Villa ",
+      "largeImage": "img/10.jpeg",
+      "smallImage": "img/10.jpeg"
+    },
+    {
+      "title": "Tempat wisata",
+      "largeImage": "img/8.jpeg",
+      "smallImage": "img/8.jpeg"
+    },
+    {
+      "title": "Saya sendiri",
+      "largeImage": "img/9.jpeg",
+      "smallImage": "img/9.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa fa-cutlery",
+      "name": "Sarapan pagi dan persiapan",
+      "text": "- Menikmati sarapan bersama direstoran hotel / - mempersiapkan perlengkapan dan keperluan untuk kegiatan hari ini"
+    },
+    {
+      "icon": "fa fa-child",
+      "name": "Olahraga bersama ",
+      "text": "- Senam bersama /-menikmati fasilitas olahraga yang tersedia di hotel"
+    },
+    {
+      "icon": "fa fa-tree",
+      "name": "Wisata alam : hiking dan foto-foto",
+      "text": "-Berangkat menuju lokasi hiking / -menjelajahi jalur hiking yang telah di tentukan / - berhenti di titik menarik untuk berfoto dan menikmati pemandangan bersama "
+    },
+    {
+      "icon": "fa fa-tint",
+      "name": "Aktifitas air : bermain di pantai ",
+      "text": "- Melanjutkan perjalanan ke pantai terdekat / - berenang ,bermain pasir ,dan menikmati suasana pantai"
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Makan siang di pinggir pantai ",
+      "text": "Menikmati hidangan laut segar di restoran pinggir pantai / - istirahat sejenak sambil menikmati pemandangan di laut"
+    },
+    {
+      "icon": "fa fa-bed",
+      "name": "Kembali ke penginapan dan istirahat",
+      "text": "Kembali ke hote untuk istirahat dan mempersiapkan diri untuk kegiatan besok hari  "
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Salman Alfarizi",
+      "job": "Ketua Angkatan"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Muhammad Fathurrahman Hafiz",
+      "job": "Wakil Ketua Angkatan"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Adjie Puta Wijaya",
+      "job": "Ketua acara revtabevend liburan "
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Adi Nugraho",
+      "job": "Bendahara"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-leaf",
+      "title": "Narkoba",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-close",
+      "title": "Alkohol",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-close",
+      "title": "Senjata api atau senjata tajam",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-venus-mars",
+      "title": "Seks bebas",
+      "text": ""
+    }
+  ]
+}
