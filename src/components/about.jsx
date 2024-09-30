@@ -14,7 +14,7 @@ export const About = (props) => {
               <h2>Muhammad Fathurrahman Hafiz (202331288)</h2>
               <p>Nama Saya Muhammad Fathurrahman Hafiz, Bisa di Panggil Fathurrahman ,
                 Saya berasal Dari Tangerang , hobi Saya  Berolah Raga ,
-                 Hal Yang menarik Dari Diri Saya Adalah Mempunyai Suara Yang Indah Untuk Memanggil Orang Untuk Sholat(adzan)
+                 Hal Yang menarik Dari Diri Saya Adalah Mempunyai Suara Yang Indah Untuk Memanggil Orang Untuk Sholat(adzan), dan Juga Saya BIsa Melantunkan Ayat suci Dengan Indah
               </p>
               
               
